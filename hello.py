@@ -1,2 +1,3 @@
 # hello.py
-print("Hello, GitHub! Modified online.")
+print("Hello, GitHub! Modified locally.")
+
